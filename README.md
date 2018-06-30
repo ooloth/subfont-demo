@@ -8,7 +8,7 @@ The class `.lora` is declared at `line 1` of `src/components/layout.css`).
 
 The `link` tag for the Google Font (which includes the font-weights `400` and `700`) is at `line 30` of `src/components/layout.js`.
 
-The example paragraphs are at `line 20` of `src/pages/index.js` (in case you want to test what happens when you change their font-weights).
+The example paragraphs are at `line 20` of `src/pages/index.js` (in case you want to adjust change their font-weights).
 
 ## To view development version (without subfont):
 
