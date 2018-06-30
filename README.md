@@ -2,7 +2,7 @@
 
 This project is an example of the default Gatsby starter (although I no longer believe React/Gatsby are relevant to the issue).
 
-The project contains example text styled using the Google Font `Lora` and subset using `subset`.
+The example text is styled using the Google Font `Lora` and subset using `subset`.
 
 The class `.lora` is declared at `line 1` of `src/components/layout.css`).
 
