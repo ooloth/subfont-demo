@@ -10,7 +10,7 @@ The `link` tag for the Google Font (which includes the font-weights `400` and `7
 
 The example paragraphs are at `line 20` of `src/pages/index.js` (in case you want to adjust change their font-weights).
 
-## To view development version (without subfont):
+## To view development version (pre-subfont):
 
 Run the following:
 
@@ -21,7 +21,7 @@ gatsby develop
 
 Then, navigate to `http://localhost:8000` to view the site in your browser.
 
-## To view the built version (including subfont)
+## To view the built version (post-subfont)
 
 Run the following:
 
