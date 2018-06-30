@@ -4,6 +4,10 @@ This project is an example of the default Gatsby starter (although I no longer b
 
 The project contains example text styled using the Google Font `Lora` (using the class `.lora` which is defined at the top of `src/components/layout.css`) at two font-weights (`400` and `700`).
 
+The `link` tag for the Google Font is at `line 30` of `src/components/layout.js`.
+
+The example paragraphs are at `line 20` of `src/pages/index.js` (in case you want to test what happens when you change their font-weights).
+
 ## To view development version (without subfont):
 
 Run the following:
