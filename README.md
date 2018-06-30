@@ -37,8 +37,8 @@ Then, navigate to `http://localhost:9000` to view the site in the browser.
 2. When new characters are dynamically added to the page, subfont loads the correct font for every character.
 3. If all font-weights used in the dynamically-added content __are also present__ in the static HTML, all characters in the dynamically-added content render correctly.
 4. However, __if a new font-weight appears__ in the dynamically-added content: 
-    a. __New characters__ that use the new font-weight will display correctly, but
-    b. __REUSED characters__ (i.e. characters also present in the static HTML) that use the new font-weight __will (incorrectly) retain the font-weight used in the static HTML__ (i.e. they will NOT use the new font-weight). 
+    1. __New characters__ that use the new font-weight will display correctly, but
+    2. __REUSED characters__ (i.e. characters also present in the static HTML) that use the new font-weight __will (incorrectly) retain the font-weight used in the static HTML__ (i.e. they will NOT use the new font-weight). 
 
 ## Conclusion
 
