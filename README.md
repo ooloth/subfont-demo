@@ -2,9 +2,11 @@
 
 This project is an example of the default Gatsby starter (although I no longer believe React/Gatsby are relevant to the issue).
 
-The project contains example text styled using the Google Font `Lora` (using the class `.lora` which is defined at the top of `src/components/layout.css`) at two font-weights (`400` and `700`).
+The project contains example text styled using the Google Font `Lora` and subset using `subset`.
 
-The `link` tag for the Google Font is at `line 30` of `src/components/layout.js`.
+The class `.lora` is declared at `line 1` of `src/components/layout.css`).
+
+The `link` tag for the Google Font (which includes the font-weights `400` and `700`) is at `line 30` of `src/components/layout.js`.
 
 The example paragraphs are at `line 20` of `src/pages/index.js` (in case you want to test what happens when you change their font-weights).
 
