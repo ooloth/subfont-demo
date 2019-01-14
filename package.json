@@ -1,8 +1,9 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "subfont-demo",
+  "description": "Subfont Demo",
+  "repository": "github:ooloth/subfont-demo.git",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Michael Uloth <hello@michaeluloth.com>",
   "dependencies": {
     "gatsby": "next",
     "gatsby-cli": "next",
@@ -11,9 +12,7 @@
     "react-dom": "^16.4.1",
     "react-helmet": "^5.2.0"
   },
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": ["gatsby"],
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -24,9 +23,5 @@
   "devDependencies": {
     "prettier": "^1.12.0",
     "subfont": "^3.4.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
   }
 }
